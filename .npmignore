@@ -1,0 +1,6 @@
+cpg-api
+.gitignore
+README.md
+tsconfig.json
+tsconfig.build.json
+.github

@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "target": "es2019",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "module": "commonjs",
+      "declaration": true,
+      "skipLibCheck": true,
+      "outDir": "./lib",
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "strict": true,
+      "paths": {
+        "@cpg/*": [
+          "./cpg-api/src/*"
+        ],
+        "@interface/*": [
+          "./cpg-api/src/Interfaces/*"
+        ],
+      }
+    },
+    "exclude": ["./node_modules", "./cpg-api/src"],
+    "include": [
+      "./src",
+      "./config.json"
+    ]
+}
+  
