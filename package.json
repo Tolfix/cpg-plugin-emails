@@ -1,6 +1,6 @@
 {
-  "name": "cpg-plugin-template",
-  "version": "1.0.0",
+  "name": "cpg-plugin-emails",
+  "version": "1.0.4",
   "description": "",
   "main": "./lib/src/index.js",
   "scripts": {

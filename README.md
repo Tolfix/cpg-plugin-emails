@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://tolfix.com/" target="_blank"><img width="260" src="https://cdn.tolfix.com/images/TX-Small.png"></a>
   <br/>
-  CPG-Plugin-Template
+  CPG-Plugin-Emails
 </p>
 
-# ⭐ | CPG-Plugin-Template
-Plugin template for CPG.
+# ⭐ | CPG-Plugin-Emails
+This is a test for modules, by using products modules.
 
 # 📢 | Contribute
 Want to contribute? Great! You can contribute by `forking` this repository, then make changes and make a `PR`!
